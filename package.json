@@ -1,0 +1,19 @@
+{
+  "name": "tf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.35.1"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.8.0",
+    "jimp": "^0.22.8"
+  }
+}
